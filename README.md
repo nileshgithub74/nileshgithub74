@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
-<h3 align="center">A passionate Developer from India 🇮🇳</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=500&color=00E5FF&lines=Hi+👋,+I'm+Nilesh+Kumar;Full+Stack+Developer+from+India;AI+%2F+React+%2F+Next.js+%2F+Node.js)](https://git.io/typing-svg)
 
 ---
 
@@ -9,7 +8,6 @@
 - 🚀 Passionate about building **AI-powered tools, real-time apps & scalable systems**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, APIs & DSA**  
 - 📫 Email: **nileshsreyansh62@gmail.com**  
-
 - ⚡ Fun fact: *I debug faster than I code 😆*
 
 ---
