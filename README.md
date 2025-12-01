@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=500&color=00E5FF&lines=Hi+👋,+I'm+Nilesh+Kumar;Full+Stack+Developer+from+India;AI+%2F+React+%2F+Next.js+%2F+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=800&color=00E5FF&lines=Hi+👋,+I'm+Nilesh+Kumar;Full+Stack+Developer+from+India;AI+%2F+React+%2F+Next.js+%2F+Node.js)](https://git.io/typing-svg)
 
 ---
 
@@ -47,11 +47,23 @@
 
 ---
 
+
+
+---
+
 ### 📊 GitHub Analytics  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nileshgithub74&show_icons=true&theme=tokyonight" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nileshgithub74&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies / Rewards  
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nileshgithub74&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
