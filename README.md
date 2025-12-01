@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=800&color=00E5FF&lines=Hi+👋,+I'm+Nilesh+Kumar;Full+Stack+Developer+from+India;AI+%2F+React+%2F+Next.js+%2F+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=800&color=00E5FF&lines=Hi+👋,+I'm+Nilesh+Kumar;Full+Stack+Developer+from+India)](https://git.io/typing-svg)
 
 ---
 
@@ -46,8 +46,6 @@
 </p>
 
 ---
-
-
 
 ---
 
