@@ -8,7 +8,7 @@
 - 🌱 Currently learning **AI/ML, Next.js, DevOps & System Design**  
 - 🚀 Passionate about building **AI-powered tools, real-time apps & scalable systems**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, APIs & DSA**  
-- 📫 Email: **nileshsreyansh@gmail.com**  
+- 📫 Email: **nileshsreyansh62@gmail.com**  
 
 - ⚡ Fun fact: *I debug faster than I code 😆*
 
