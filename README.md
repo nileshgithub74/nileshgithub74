@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h1 align="center">
+  <svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00d4ff" />
+        <stop offset="100%" stop-color="#007bff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family:'Poppins',sans-serif;font-size:60px;font-weight:700;fill:url(#gradient);letter-spacing:4px;">
+      <tspan>
+        <animate attributeName="x" dur="4s" repeatCount="indefinite"
+                 values="45%;55%;45%" />
+        NILESH KUMAR
+      </tspan>
+    </text>
+  </svg>
+</h1>
 
 ---
 
