@@ -1,32 +1,23 @@
 <h1 align="center">
-  <svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00d4ff" />
-        <stop offset="100%" stop-color="#007bff" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-family:'Poppins',sans-serif;font-size:60px;font-weight:700;fill:url(#gradient);letter-spacing:4px;">
-      <tspan>
-        <animate attributeName="x" dur="4s" repeatCount="indefinite"
-                 values="45%;55%;45%" />
-        NILESH KUMAR
-      </tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Nilesh+Kumar;Full+Stack+Developer+from+India🇮🇳;Building+Smart+%26+Scalable+Apps🚀;Always+Learning+New+Tech💡" alt="Typing Animation" />
 </h1>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nileshgithub74&label=Profile+Views&color=blue&style=flat" alt="views" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me  
 
-- 🌱 Currently learning **AI/ML, Next.js, DevOps & Scalable System Design.**
-- 🚀 Passionate about building **AI-powered applications, real-time systems, and modern full-stack solutions.**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, SQL, System Design & DSA.**
-- 📫 Reach me at: **nileshsreyansh@gmail.com**
+- 🌱 Learning: **AI/ML, Next.js, DevOps, Cloud & Scalable System Design**
+- 💼 Working on: **AI based solutions & real-world product builds**
+- 💬 Ask me about: **React, Next.js, TypeScript, Node.js, MongoDB, System Design & DSA**
+- 📧 Email: **nileshsreyansh@gmail.com**
 - 📞 Phone: **+91-7009087696**
-- ⚡ Fun fact: I break things until I understand them.
+- ⚡ Fun fact: **I break things until I understand them.**
 
 ---
 
@@ -38,16 +29,12 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
 #### ⚛️ Frameworks & Libraries  
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="40"/> &nbsp;
 <img src="https://img.shields.io/badge/ShadCN_UI-000?style=for-the-badge"/> &nbsp;
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
-
----
 
 #### 🗄️ Databases  
 <p>
@@ -56,15 +43,11 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
----
-
 #### ☁️ Cloud & DevOps  
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker" height="40"/> &nbsp;
 <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
-
----
 
 #### 🛠️ Tools  
 <p>
@@ -72,6 +55,14 @@
 </p>
 
 ---
+
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nileshgithub74&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -84,11 +75,21 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🐍 Contribution Snake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nilesh-kumar-74w/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nileshgithub74)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nileshgithub74/nileshgithub74/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ *Thanks for Visiting my GitHub Profile — Keep Building, Keep Learning!* 🚀  
+### 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nilesh-kumar-74w/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/nileshgithub74"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+⭐ *Thanks for visiting — Keep Building. Keep Learning. Keep Growing.* 🚀  
