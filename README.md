@@ -9,7 +9,7 @@
 - 🚀 Passionate about building **AI-powered tools, real-time apps & scalable systems**  
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, APIs & DSA**  
 - 📫 Email: **nileshsreyansh@gmail.com**  
-- 📞 Phone: **+91-7009087696**  
+
 - ⚡ Fun fact: *I debug faster than I code 😆*
 
 ---
