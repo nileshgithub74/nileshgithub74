@@ -16,49 +16,46 @@
 
 ### 🛠️ Skills & Technologies
 
-#### **Languages**
-Java • C/C++ • JavaScript • HTML • CSS • SQL
-
-#### **Frameworks & Libraries**
-React.js • Next.js • Node.js • Express.js • Tailwind CSS • ShadCN UI • Framer Motion
-
-#### **Databases**
-MongoDB • NeonDB • Supabase
-
-#### **Cloud & DevOps**
-AWS • Microsoft Azure • Docker • CI/CD Pipelines
-
-#### **Tools**
-Git • GitHub • Prisma • VS Code • Ubuntu • Postman
+#### 🚀 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
----
-
-### 🚀 Projects
-
-#### ⭐ Vehicle AI Platform  
-**Tech:** Next.js · Supabase · Gemini API · Arcjet  
-📌 Nov 2024 – Dec 2024  
-- Built an **AI-powered car e-commerce platform** with image-based smart search  
-- Features: EMI System, Test Drive Booking, Authentication, Admin Dashboard  
-- Arcjet implemented for **bot protection, rate limits & security**
+#### ⚛️ Frameworks & Libraries  
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/ShadCN_UI-000?style=for-the-badge"/> &nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
 ---
 
-#### ⭐ Video Conferencing App  
-**Tech:** Next.js · Node.js · MongoDB · Socket.io  
-📌 Sept 2024 – Oct 2024  
-- Built **real-time video conferencing** for 100+ concurrent users  
-- Added authentication, low-latency streaming & error resilience  
+#### 🗄️ Databases  
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 ---
 
-#### ⭐ Home-MART  
-**Tech:** React.js · Node.js · MongoDB · Tailwind CSS · Material UI  
-📌 Aug 2023 – Sept 2024  
-- Full-stack e-commerce app with payments, cart system & responsive UI  
-- Optimized performance: **30% faster load times**
+#### ☁️ Cloud & DevOps  
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+#### 🛠️ Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,prisma,vscode,ubuntu,postman" height="40"/>
+</p>
+
+---
 
 ---
 
