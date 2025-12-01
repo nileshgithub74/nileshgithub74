@@ -1,70 +1,51 @@
-<div align="center">
-
-<!-- 🌊 Wavy Name -->
-<h1>
-  <span style="display:inline-block;animation:wave 2s infinite ease-in-out;">N</span>
-  <span style="display:inline-block;animation:wave 2s 0.1s infinite ease-in-out;">I</span>
-  <span style="display:inline-block;animation:wave 2s 0.2s infinite ease-in-out;">L</span>
-  <span style="display:inline-block;animation:wave 2s 0.3s infinite ease-in-out;">E</span>
-  <span style="display:inline-block;animation:wave 2s 0.4s infinite ease-in-out;">S</span>
-  <span style="display:inline-block;animation:wave 2s 0.5s infinite ease-in-out;">H</span>
-  &nbsp;
-  <span style="display:inline-block;animation:wave 2s 0.6s infinite ease-in-out;">K</span>
-  <span style="display:inline-block;animation:wave 2s 0.7s infinite ease-in-out;">U</span>
-  <span style="display:inline-block;animation:wave 2s 0.8s infinite ease-in-out;">M</span>
-  <span style="display:inline-block;animation:wave 2s 0.9s infinite ease-in-out;">A</span>
-  <span style="display:inline-block;animation:wave 2s 1s infinite ease-in-out;">R</span>
-</h1>
-
-<style>
-@keyframes wave {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-</style>
-
-<!-- Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI+%2F+Cloud+%2F+DevOps;From+India+🇮🇳;Learning+%2F+Building+%2F+Innovating+🚀" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
+<h3 align="center">A passionate Developer from India 🇮🇳</h3>
 
 ---
 
 ### 🧑‍💻 About Me  
 
-- 🌱 Currently learning **AI/ML, Next.js, DevOps & System Design**
-- 🚀 Passionate about building **AI-powered tools, real-time apps & scalable systems**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, APIs & DSA**
-- 📫 Email: **nileshsreyansh@gmail.com**
-- 📞 Phone: **+91-7009087696**
+- 🌱 Currently learning **AI/ML, Next.js, DevOps & System Design**  
+- 🚀 Passionate about building **AI-powered tools, real-time apps & scalable systems**  
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, APIs & DSA**  
+- 📫 Email: **nileshsreyansh@gmail.com**  
+- 📞 Phone: **+91-7009087696**  
 - ⚡ Fun fact: *I debug faster than I code 😆*
-
----
 
 ---
 
 ## 🚀 Technical Skills  
 
-| Category | Skills |
-|---------|--------|
-| **Languages** | Java • C/C++ • JavaScript • HTML • CSS • SQL |
-| **Frameworks & Libraries** | React.js • Next.js • Node.js • Express.js • Tailwind CSS • ShadCN UI • Framer Motion |
-| **Databases** | MongoDB • NeonDB • Supabase |
-| **Cloud & DevOps** | AWS • Microsoft Azure • Docker • CI/CD Pipelines |
-| **Tools** | Git • GitHub • Prisma • VS Code • Ubuntu • Postman |
-
----
-
-### 🎯 Tech Stack with Icons  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,aws,azure,docker,git,github,vscode,ubuntu,postman" height="45"/>
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
+### ⚛️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/ShadCN_UI-000?style=for-the-badge"/> &nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
----
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,prisma,vscode,ubuntu,postman" height="40"/>
+</p>
 
 ---
 
@@ -87,4 +68,3 @@
 ---
 
 ⭐ **Thank you for visiting — Keep Building, Keep Learning 🚀✨**
-
